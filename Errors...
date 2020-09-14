@@ -1,0 +1,4 @@
+public int generateRandomNumber(int max){
+  int a = (int) Math.random() * max ;
+  return a; 
+}
